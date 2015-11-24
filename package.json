@@ -1,0 +1,16 @@
+{
+  "name": "compiled-ratchet",
+  "version": "2.0.2",
+  "description": "Compiled Ratchet files",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoschmidt/compiled-ratchet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavoschmidt/compiled-ratchet/issues"
+  },
+  "homepage": "https://github.com/gustavoschmidt/compiled-ratchet#readme"
+}
